@@ -1,4 +1,4 @@
-## スタジオソリューションズ有限会社（STUDIOSOLUTIONS, LTD.）
+## スタジオソリューションズ 有限会社 （STUDIOSOLUTIONS,LTD.）
 
  
 
