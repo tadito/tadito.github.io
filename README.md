@@ -1,39 +1,86 @@
-## Welcome to tadito's GitHub Pages
+## スタジオソリューションズ有限会社（STUDIOSOLUTIONS, LTD.）
 
-Thisn the first step.
+ 
 
-You can use the [editor on GitHub](https://github.com/tadito/tadito.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+スタジオソリューションズは、”基礎技術を集め、効率よく働くように組み合わせ製品を作り上げる”ことによりお客様企業の新たな価値を創造することを目指しています。ハードウェア、ソフトウェアなどの様々な技術とアイディアを組み合わせ、様々な市場に対し“楽しい”“新しい”“役に立つ”を形にした製品を提供し、お客様企業の価値を最大限に活かすべく貢献してまいります。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ 
 
-### Markdown
+l   会社概要
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_   所在地 108-0073 東京都港区三田５－１３－８－４１１
 
-```markdown
-Syntax highlighted code block
+_   設立 2005 年 5 月 31 日
 
-# Header 1
-## Header 2
-### Header 3
+_   代表者 取締役社長 伊藤正
 
-- Bulleted
-- List
+_   略歴 NEC にて科学技術計算系３D グラフィックス開発に携わり、同社と英国 ImaginationTechnologies の共同プロジェクト PowerVR に参加した
 
-1. Numbered
-2. List
+後、株式会社アートディンクにて Playstation2 用ミドルウエアのディレクターを務める。その後、日本マイクロソフトにて初代 Xbox の立ち上げ時にマネージャーとして内製ゲーム開発部門の技術開発チームとテストチームの立ち上げと運用に従事。のち、現職。
 
-**Bold** and _Italic_ and `Code` text
+_   事業内容 ソフトウェア開発、販売、コンサルティングなど
 
-[Link](url) and ![Image](src)
-```
+_   主要取引金融機関
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+_  三井住友銀行
 
-### Jekyll Themes
+ 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tadito/tadito.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+l   主要製品／業務、イベントなど
 
-### Support or Contact
+_   開発情報管理システム TestingStudio 開発・販売
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+_   お客様と一緒に製品開発まで取り組むコンサルティング/サポート業務
+
+ 
+
+（例）
+
+_  CG 技術拡販
+
+l   新技術（レイトレーシング）を国内企業に販売するため
+
+_   技術サポート
+
+_   デモプログラム作成
+
+_   戦略検討・資料作成
+
+_  農業
+
+_  ガジェット
+
+_   イベント参加
+
+                        _     TestingStudio 関連
+
+l   2005 CEDEC2005 にて製品発表
+
+l   2006 GTMF2006 にて 1.0RC 発表 1.0 リリース
+
+l   2007 GTMF2007, GTMF2007 福岡 出展
+
+l   2007 TokyoGameShow2007 出展
+
+l   2008 TokyoGameShow2008 出展
+
+l   2009 GTMF2009 出展
+
+                        _     CG 技術関連
+
+l   2014  CEDEC2014 講演
+
+“Imagination Technologies PowerVR Graphics”  
+
+ 
+
+l   主な取引先
+
+_   株式会社カプコン
+
+_   イマジネーションテクノロジーズ株式会社
+
+_   株式会社ボーンデジタル
+
+_   シンセリアル有限会社
+
